@@ -11,13 +11,21 @@ I'm a FrontEnd Developer
 
 ## 🛠 Tech Stack
 
-**SPA:** React, Redux, TypeScript
+**FrontEnd:**
+- TypeScript, JavaScript
+- NextJS, ReactJS
+- Redux, Redux Toolkit, Redux Saga, Redux Thunk, Reselect
+- Formik, React Hook Form
+- ESLint, Prettier
+- SCSS|SASS|LESS / styled-components / CSS Modules / Stylus / PostCSS
+- Tailwind UI, Material UI, Semantic UI, Twitter Bootstrap, Ant Design
+- Webpack / Gulp
+- React Testing Library / Jest
 
-**Layout:** HTML5, CSS3/SCSS/SASS/LESS, JavaScript/Jquery, other animation libraries
-
-**Component Libs:** Tailwind, MUI, Bootstrap
-
-**Design tool:** Figma, Spline
-
-**Version Control:** GitHub, GitKraken, Git terminal
+**Other:**
+- Git / GitHub / GitLab
+- Firebase
+- BEM (CSS)
+- JSON / JSON RPC
+- Jira / Trello / Redmine
 
