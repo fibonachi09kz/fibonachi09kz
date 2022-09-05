@@ -1,5 +1,5 @@
 <h1 align="center">Aleksin Danila Sergeevich</h1>
-<h3 align="center">Frontend Engineer</h3>
+<h2 align="center">Frontend Engineer</h2>
 
 
 ## 🔗 Links
