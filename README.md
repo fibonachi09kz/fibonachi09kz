@@ -18,9 +18,9 @@
 **FrontEnd:**
 - TypeScript, JavaScript
 - NextJS, ReactJS
-- Redux, Redux Toolkit, Redux Saga, Redux Thunk, Reselect
+- Redux, Redux Toolkit, Redux Saga, Redux Thunk
 - Formik, React Hook Form
-- ESLint, Prettier
+- TSLint, ESLint, Prettier
 - SCSS|SASS|LESS / styled-components / CSS Modules / Stylus / PostCSS
 - Tailwind UI, Material UI, Semantic UI, Twitter Bootstrap, Ant Design
 - Webpack / Gulp
@@ -30,7 +30,7 @@
 - Git / GitHub / GitLab
 - Firebase
 - BEM (CSS)
-- JSON / JSON RPC
+- JSON / JSON RPC / JWT
 - Jira / Trello / Redmine
 
 **Support:**
