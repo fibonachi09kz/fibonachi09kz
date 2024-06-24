@@ -2,9 +2,6 @@
 <h3 align="center">Frontend Engineer</h3>
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martians.kz)
-
 ## 🛠 Tech Stack
 
 <p>
@@ -17,19 +14,17 @@
 
 **FrontEnd:**
 - TypeScript, JavaScript
-- NextJS, ReactJS
-- Redux, Redux Toolkit, Redux Saga, Redux Thunk
+- NextJS, ReactJS, React Native (Expo optional)
+- Redux, Redux Toolkit, Mobx, Zustand
 - Formik, React Hook Form
-- TSLint, ESLint, Prettier
-- SCSS|SASS|LESS / styled-components / CSS Modules / Stylus / PostCSS
-- Tailwind UI, Material UI, Semantic UI, Twitter Bootstrap, Ant Design
-- Webpack / Gulp
-- React Testing Library / Jest
+- ESLint, Prettier
+- Tailwind / SCSS|SASS|LESS / styled-components / CSS Modules / PostCSS
+- Tailwind UI, NextUI, Ant Design etc.
+- Webpack / Vite
 
 **Other:**
 - Git / GitHub / GitLab
-- Firebase
-- BEM (CSS)
+- Firebase, Expo
 - JSON / JSON RPC / JWT
 - Jira / Trello / Redmine
 
