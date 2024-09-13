@@ -18,7 +18,7 @@
 - Redux, Redux Toolkit, Mobx, Zustand
 - Formik, React Hook Form
 - ESLint, Prettier
-- Tailwind / SCSS|SASS|LESS / styled-components / CSS Modules / PostCSS
+- Tailwind / SCSS|SASS|LESS / CSS Modules / PostCSS
 - Tailwind UI, NextUI, Ant Design etc.
 - Webpack / Vite
 
