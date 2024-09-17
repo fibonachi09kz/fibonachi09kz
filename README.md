@@ -28,6 +28,11 @@
 - JSON / JSON RPC / JWT
 - Jira / Trello / Redmine
 
-**Support:**
-<p><a href="https://www.buymeacoffee.com/danya09kz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danya09kz" /></a></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fibonachi09kz&show_icons=true&locale=en" alt="fibonachi09kz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fibonachi09kz&" alt="fibonachi09kz" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fibonachi09kz&show_icons=true&locale=en&layout=compact" alt="fibonachi09kz" /></p>
 
