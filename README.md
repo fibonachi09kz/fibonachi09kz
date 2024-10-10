@@ -1,5 +1,5 @@
 <h1 align="center">Aleksin Danila Sergeevich</h1>
-<h3 align="center">FullStack Enginner</h3>
+<h3 align="center">FullStack Engineer</h3>
 
 
 ## 🛠 Tech Stack
